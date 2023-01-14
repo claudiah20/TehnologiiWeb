@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "formik": "^2.2.9",
-    "react-overlays": "^5.2.1"
-  }
-}
